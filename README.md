@@ -44,4 +44,4 @@ look nice
 '    `---`    ---`-'         `--`---'                `--`-,,-'                
 '                                                                             
 md
-![Markdown Logo]([https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Pirate_Flag.svg/2560px-Pirate_Flag.svg.png])
+![Pirate](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Pirate_Flag.svg/2560px-Pirate_Flag.svg.png)
