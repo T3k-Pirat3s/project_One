@@ -1,16 +1,29 @@
 //import logo from './logo.svg';
 import './App.css';
+// import Login from './Login/Login';
+// import Admin from './Admin/Admin';
+import Blog from './Blog/Blog';
+import Navbar from './components/Navbar';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Home from './Pages/Home';
+// import About from './Pages/About';
 
 function App() {
   return (
-    <div className="container mx-auto bg-gray-200 rounded-xl shadow border p-8 m-10">
-      <p className="text-3xl text-gray-700 font-bold mb-5">
-        Welcome!
-      </p>
-      <p className="text-gray-500 text-lg">
-        React and Tailwind CSS in action
-      </p>
-    </div>
+    <>
+      {/* <Login></Login> */}
+      {/* <Admin></Admin> */}
+      {/* <Blog></Blog> */}
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Navbar />}>
+            <Route index element={<Home />} />
+            <Route path="blog" element={<Blog />} />
+          </Route>
+        </Routes>
+
+      </BrowserRouter>
+    </>
   );
 }
 export default App;
