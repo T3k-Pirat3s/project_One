@@ -1,5 +1,5 @@
 # project_cra_js
-# Created with Create-React-App
+# Created with Create-React-App AND Tailwind CSS
 
 Installation instructions:
 
