@@ -2,15 +2,16 @@
 
 # Created with Create-React-App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Installation instructions:
 
-### Advanced Configuration
+1. Create Project Folder
+2. Clone this repo by typing 'git clone https://github.com/T3k-Pirat3s/project_cra_js.git' in bash terminal.
+3. Type: 'npm install' to install dependencies.
+4. Type 'npm start' to start development server.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Open Source Project for t3k-pirat3s. Feel free to contribute
+what you would like to make the project
+look nice
 
 '  
 ' .--,-`-.                                                     
